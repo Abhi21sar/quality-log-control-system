@@ -1,0 +1,16 @@
+{
+  "apis": {
+    "api1": {
+      "log_level": "INFO",
+      "file_path": "logs/log1.log"
+    },
+    "api2": {
+      "log_level": "ERROR",
+      "file_path": "logs/log2.log"
+    },
+    "api3": {
+      "log_level": "INFO",
+      "file_path": "logs/log3.log"
+    }
+  }
+}
