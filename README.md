@@ -98,7 +98,3 @@ Follow the prompts to enter the query criteria:
   * Start date: Enter a start date in the format YYYY-MM-DD (optional).
   * End date: Enter an end date in the format YYYY-MM-DD (optional).
   * Source file: Enter the source log file (e.g., `logs/log1.log`).
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
