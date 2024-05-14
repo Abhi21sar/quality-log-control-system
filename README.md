@@ -99,18 +99,6 @@ Follow the prompts to enter the query criteria:
   * End date: Enter an end date in the format YYYY-MM-DD (optional).
   * Source file: Enter the source log file (e.g., `logs/log1.log`).
 
-## Future Enhancements
-
-* Implement a web-based query interface for better usability.
-* Add real-time log ingestion and querying capabilities.
-* Implement role-based access control (RBAC) for the query interface.
-
-## Identified Issues
-
-* The current implementation uses a CLI for querying logs. A web-based UI could enhance usability.
-* Real-time log ingestion and querying capabilities are not implemented.
-* Role-based access control (RBAC) for the query interface is not included.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
